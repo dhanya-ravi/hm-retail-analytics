@@ -5,4 +5,3 @@ SELECT
 FROM transactions
 GROUP BY DATE_FORMAT(transaction_date, '%Y-%m')
 ORDER BY month;
-
