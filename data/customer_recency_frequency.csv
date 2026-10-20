@@ -1,0 +1,21 @@
+recency_group,frequency_group,customers,pct_of_customers
+0-30 days,1 day,21858,1.60
+0-30 days,2-3 days,27637,2.03
+0-30 days,4-6 days,33957,2.49
+0-30 days,7+ days,167167,12.27
+31-90 days,1 day,35065,2.57
+31-90 days,2-3 days,46510,3.41
+31-90 days,4-6 days,52119,3.83
+31-90 days,7+ days,140762,10.33
+91-180 days,1 day,61128,4.49
+91-180 days,2-3 days,56250,4.13
+91-180 days,4-6 days,41785,3.07
+91-180 days,7+ days,58193,4.27
+181-365 days,1 day,93322,6.85
+181-365 days,2-3 days,71203,5.23
+181-365 days,4-6 days,47327,3.47
+181-365 days,7+ days,40037,2.94
+Over 365 days,1 day,236600,17.37
+Over 365 days,2-3 days,95385,7.00
+Over 365 days,4-6 days,27332,2.01
+Over 365 days,7+ days,8644,0.63

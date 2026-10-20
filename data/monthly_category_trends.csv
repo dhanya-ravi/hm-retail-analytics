@@ -1,0 +1,526 @@
+month,garment_group_name,item_lines,pct_of_monthly_item_lines
+2018-09,Jersey Fancy,95756,16.10
+2018-09,Knitwear,83032,13.96
+2018-09,Jersey Basic,64480,10.84
+2018-09,Trousers,59699,10.04
+2018-09,"Under-, Nightwear",44551,7.49
+2018-09,Blouses,40221,6.76
+2018-09,Accessories,32295,5.43
+2018-09,Trousers Denim,32171,5.41
+2018-09,Dresses Ladies,22360,3.76
+2018-09,Outdoor,21003,3.53
+2018-09,Socks and Tights,20218,3.40
+2018-09,Shoes,13777,2.32
+2018-09,Special Offers,13112,2.20
+2018-09,Swimwear,12502,2.10
+2018-09,Skirts,10202,1.72
+2018-09,Unknown,9321,1.57
+2018-09,Dressed,7969,1.34
+2018-09,Shirts,4995,0.84
+2018-09,Shorts,2884,0.48
+2018-09,Dresses/Skirts girls,2255,0.38
+2018-09,Woven/Jersey/Knitted mix Baby,1973,0.33
+2018-10,Jersey Fancy,224484,16.07
+2018-10,Knitwear,200137,14.33
+2018-10,Trousers,140556,10.06
+2018-10,Jersey Basic,139736,10.00
+2018-10,"Under-, Nightwear",107576,7.70
+2018-10,Blouses,101353,7.25
+2018-10,Accessories,78801,5.64
+2018-10,Trousers Denim,69866,5.00
+2018-10,Dresses Ladies,58174,4.16
+2018-10,Outdoor,55383,3.96
+2018-10,Socks and Tights,44483,3.18
+2018-10,Shoes,33792,2.42
+2018-10,Swimwear,30811,2.21
+2018-10,Skirts,25108,1.80
+2018-10,Unknown,24099,1.73
+2018-10,Dressed,19360,1.39
+2018-10,Special Offers,14039,1.00
+2018-10,Shirts,11591,0.83
+2018-10,Shorts,7363,0.53
+2018-10,Woven/Jersey/Knitted mix Baby,5528,0.40
+2018-10,Dresses/Skirts girls,4800,0.34
+2018-11,Jersey Fancy,200933,15.81
+2018-11,Knitwear,198165,15.60
+2018-11,Trousers,122832,9.67
+2018-11,Jersey Basic,114782,9.03
+2018-11,"Under-, Nightwear",111525,8.78
+2018-11,Accessories,83592,6.58
+2018-11,Blouses,82612,6.50
+2018-11,Dresses Ladies,65964,5.19
+2018-11,Trousers Denim,51043,4.02
+2018-11,Socks and Tights,46004,3.62
+2018-11,Outdoor,46002,3.62
+2018-11,Shoes,28423,2.24
+2018-11,Unknown,23443,1.85
+2018-11,Skirts,22234,1.75
+2018-11,Swimwear,19796,1.56
+2018-11,Dressed,16812,1.32
+2018-11,Shirts,11946,0.94
+2018-11,Special Offers,11139,0.88
+2018-11,Woven/Jersey/Knitted mix Baby,4781,0.38
+2018-11,Shorts,4365,0.34
+2018-11,Dresses/Skirts girls,4226,0.33
+2018-12,Jersey Fancy,181624,15.81
+2018-12,Knitwear,151523,13.19
+2018-12,"Under-, Nightwear",122140,10.63
+2018-12,Trousers,105835,9.21
+2018-12,Accessories,84899,7.39
+2018-12,Jersey Basic,83535,7.27
+2018-12,Blouses,75133,6.54
+2018-12,Dresses Ladies,61590,5.36
+2018-12,Socks and Tights,52924,4.61
+2018-12,Trousers Denim,43395,3.78
+2018-12,Outdoor,33712,2.93
+2018-12,Swimwear,24448,2.13
+2018-12,Shoes,24379,2.12
+2018-12,Unknown,23388,2.04
+2018-12,Skirts,22976,2.00
+2018-12,Shirts,17555,1.53
+2018-12,Dressed,13256,1.15
+2018-12,Special Offers,11947,1.04
+2018-12,Dresses/Skirts girls,6032,0.53
+2018-12,Shorts,4394,0.38
+2018-12,Woven/Jersey/Knitted mix Baby,4142,0.36
+2019-01,Jersey Fancy,212188,16.79
+2019-01,Knitwear,148054,11.72
+2019-01,"Under-, Nightwear",137491,10.88
+2019-01,Trousers,119835,9.48
+2019-01,Jersey Basic,113473,8.98
+2019-01,Swimwear,82257,6.51
+2019-01,Blouses,74126,5.87
+2019-01,Accessories,72204,5.71
+2019-01,Trousers Denim,66131,5.23
+2019-01,Dresses Ladies,44141,3.49
+2019-01,Outdoor,39385,3.12
+2019-01,Unknown,29895,2.37
+2019-01,Socks and Tights,29807,2.36
+2019-01,Shoes,27037,2.14
+2019-01,Special Offers,16784,1.33
+2019-01,Dressed,15548,1.23
+2019-01,Skirts,14889,1.18
+2019-01,Shirts,6349,0.50
+2019-01,Shorts,5963,0.47
+2019-01,Woven/Jersey/Knitted mix Baby,4147,0.33
+2019-01,Dresses/Skirts girls,3767,0.30
+2019-02,Jersey Fancy,198072,17.19
+2019-02,Trousers,122266,10.61
+2019-02,Jersey Basic,115809,10.05
+2019-02,"Under-, Nightwear",109245,9.48
+2019-02,Knitwear,87300,7.58
+2019-02,Blouses,83151,7.22
+2019-02,Swimwear,74590,6.47
+2019-02,Accessories,69302,6.01
+2019-02,Trousers Denim,64106,5.56
+2019-02,Dresses Ladies,50739,4.40
+2019-02,Outdoor,33704,2.92
+2019-02,Socks and Tights,29167,2.53
+2019-02,Unknown,24427,2.12
+2019-02,Shoes,23842,2.07
+2019-02,Skirts,18440,1.60
+2019-02,Dressed,16652,1.44
+2019-02,Special Offers,8503,0.74
+2019-02,Shirts,7604,0.66
+2019-02,Shorts,7019,0.61
+2019-02,Dresses/Skirts girls,4264,0.37
+2019-02,Woven/Jersey/Knitted mix Baby,4210,0.37
+2019-03,Jersey Fancy,226195,17.58
+2019-03,Trousers,143114,11.12
+2019-03,Blouses,118877,9.24
+2019-03,Jersey Basic,116482,9.05
+2019-03,Swimwear,113344,8.81
+2019-03,"Under-, Nightwear",106077,8.24
+2019-03,Dresses Ladies,75665,5.88
+2019-03,Knitwear,69094,5.37
+2019-03,Trousers Denim,64624,5.02
+2019-03,Accessories,62697,4.87
+2019-03,Outdoor,32770,2.55
+2019-03,Shoes,32444,2.52
+2019-03,Unknown,27131,2.11
+2019-03,Socks and Tights,26104,2.03
+2019-03,Skirts,20860,1.62
+2019-03,Dressed,19787,1.54
+2019-03,Shorts,11922,0.93
+2019-03,Special Offers,7684,0.60
+2019-03,Shirts,6631,0.52
+2019-03,Dresses/Skirts girls,2762,0.21
+2019-03,Woven/Jersey/Knitted mix Baby,2486,0.19
+2019-04,Jersey Fancy,261629,17.72
+2019-04,Swimwear,173031,11.72
+2019-04,Jersey Basic,153195,10.38
+2019-04,Trousers,146110,9.90
+2019-04,Blouses,131713,8.92
+2019-04,Dresses Ladies,120032,8.13
+2019-04,"Under-, Nightwear",104308,7.06
+2019-04,Accessories,63900,4.33
+2019-04,Trousers Denim,55316,3.75
+2019-04,Shorts,46834,3.17
+2019-04,Shoes,44049,2.98
+2019-04,Knitwear,40444,2.74
+2019-04,Skirts,25182,1.71
+2019-04,Socks and Tights,23925,1.62
+2019-04,Outdoor,22106,1.50
+2019-04,Unknown,18647,1.26
+2019-04,Dressed,17738,1.20
+2019-04,Special Offers,14372,0.97
+2019-04,Shirts,8143,0.55
+2019-04,Dresses/Skirts girls,3231,0.22
+2019-04,Woven/Jersey/Knitted mix Baby,2549,0.17
+2019-05,Jersey Fancy,261365,16.75
+2019-05,Swimwear,221575,14.20
+2019-05,Jersey Basic,143592,9.20
+2019-05,Dresses Ladies,138890,8.90
+2019-05,Blouses,137123,8.79
+2019-05,Trousers,131987,8.46
+2019-05,"Under-, Nightwear",123733,7.93
+2019-05,Accessories,69246,4.44
+2019-05,Shorts,69001,4.42
+2019-05,Trousers Denim,53685,3.44
+2019-05,Shoes,43536,2.79
+2019-05,Knitwear,39205,2.51
+2019-05,Skirts,27807,1.78
+2019-05,Socks and Tights,24750,1.59
+2019-05,Outdoor,19058,1.22
+2019-05,Dressed,14705,0.94
+2019-05,Unknown,13784,0.88
+2019-05,Special Offers,12098,0.78
+2019-05,Shirts,10633,0.68
+2019-05,Dresses/Skirts girls,2535,0.16
+2019-05,Woven/Jersey/Knitted mix Baby,2011,0.13
+2019-06,Jersey Fancy,314690,16.51
+2019-06,Swimwear,289983,15.21
+2019-06,Dresses Ladies,199653,10.47
+2019-06,Jersey Basic,192708,10.11
+2019-06,Blouses,171524,9.00
+2019-06,Trousers,141317,7.41
+2019-06,"Under-, Nightwear",137548,7.22
+2019-06,Shorts,117824,6.18
+2019-06,Accessories,72965,3.83
+2019-06,Trousers Denim,60108,3.15
+2019-06,Shoes,52821,2.77
+2019-06,Skirts,36383,1.91
+2019-06,Knitwear,34943,1.83
+2019-06,Socks and Tights,19511,1.02
+2019-06,Unknown,17788,0.93
+2019-06,Outdoor,14456,0.76
+2019-06,Shirts,11741,0.62
+2019-06,Dressed,10157,0.53
+2019-06,Special Offers,5311,0.28
+2019-06,Dresses/Skirts girls,2880,0.15
+2019-06,Woven/Jersey/Knitted mix Baby,1891,0.10
+2019-07,Jersey Fancy,296214,16.39
+2019-07,Swimwear,253969,14.05
+2019-07,Jersey Basic,201692,11.16
+2019-07,Blouses,179515,9.93
+2019-07,Dresses Ladies,166585,9.22
+2019-07,"Under-, Nightwear",137378,7.60
+2019-07,Trousers,133585,7.39
+2019-07,Shorts,108806,6.02
+2019-07,Accessories,76186,4.22
+2019-07,Trousers Denim,57840,3.20
+2019-07,Shoes,46825,2.59
+2019-07,Knitwear,34037,1.88
+2019-07,Skirts,32231,1.78
+2019-07,Socks and Tights,18518,1.02
+2019-07,Unknown,17085,0.95
+2019-07,Outdoor,16029,0.89
+2019-07,Shirts,10705,0.59
+2019-07,Dressed,9431,0.52
+2019-07,Special Offers,5764,0.32
+2019-07,Dresses/Skirts girls,2850,0.16
+2019-07,Woven/Jersey/Knitted mix Baby,2249,0.12
+2019-08,Jersey Fancy,211610,16.88
+2019-08,Jersey Basic,136664,10.90
+2019-08,Trousers,118315,9.44
+2019-08,"Under-, Nightwear",117439,9.37
+2019-08,Blouses,111373,8.88
+2019-08,Swimwear,93718,7.48
+2019-08,Dresses Ladies,90897,7.25
+2019-08,Knitwear,68769,5.49
+2019-08,Accessories,60451,4.82
+2019-08,Trousers Denim,54174,4.32
+2019-08,Shorts,40654,3.24
+2019-08,Shoes,32339,2.58
+2019-08,Skirts,28287,2.26
+2019-08,Outdoor,20549,1.64
+2019-08,Socks and Tights,18841,1.50
+2019-08,Dressed,15162,1.21
+2019-08,Unknown,13792,1.10
+2019-08,Special Offers,9469,0.76
+2019-08,Shirts,7279,0.58
+2019-08,Woven/Jersey/Knitted mix Baby,2003,0.16
+2019-08,Dresses/Skirts girls,1745,0.14
+2019-09,Jersey Fancy,179855,14.66
+2019-09,Knitwear,176333,14.37
+2019-09,Jersey Basic,134423,10.95
+2019-09,Trousers,131848,10.74
+2019-09,"Under-, Nightwear",106424,8.67
+2019-09,Blouses,89355,7.28
+2019-09,Dresses Ladies,61614,5.02
+2019-09,Accessories,60839,4.96
+2019-09,Trousers Denim,58518,4.77
+2019-09,Outdoor,43472,3.54
+2019-09,Socks and Tights,31100,2.53
+2019-09,Skirts,27321,2.23
+2019-09,Shoes,24645,2.01
+2019-09,Dressed,24115,1.97
+2019-09,Swimwear,21942,1.79
+2019-09,Unknown,18744,1.53
+2019-09,Special Offers,18086,1.47
+2019-09,Shorts,7932,0.65
+2019-09,Shirts,7258,0.59
+2019-09,Woven/Jersey/Knitted mix Baby,1978,0.16
+2019-09,Dresses/Skirts girls,1376,0.11
+2019-10,Knitwear,187707,16.37
+2019-10,Jersey Fancy,161265,14.06
+2019-10,Trousers,115620,10.08
+2019-10,Jersey Basic,115312,10.06
+2019-10,"Under-, Nightwear",107951,9.41
+2019-10,Blouses,78962,6.89
+2019-10,Dresses Ladies,65131,5.68
+2019-10,Accessories,63002,5.49
+2019-10,Trousers Denim,48101,4.19
+2019-10,Outdoor,47959,4.18
+2019-10,Socks and Tights,40622,3.54
+2019-10,Skirts,27709,2.42
+2019-10,Shoes,20000,1.74
+2019-10,Dressed,15651,1.36
+2019-10,Swimwear,13962,1.22
+2019-10,Unknown,13657,1.19
+2019-10,Special Offers,9626,0.84
+2019-10,Shirts,7099,0.62
+2019-10,Shorts,4891,0.43
+2019-10,Woven/Jersey/Knitted mix Baby,1459,0.13
+2019-10,Dresses/Skirts girls,1086,0.09
+2019-11,Knitwear,209331,17.47
+2019-11,Jersey Fancy,149816,12.51
+2019-11,"Under-, Nightwear",136570,11.40
+2019-11,Jersey Basic,110664,9.24
+2019-11,Trousers,110106,9.19
+2019-11,Accessories,78001,6.51
+2019-11,Dresses Ladies,76052,6.35
+2019-11,Blouses,75094,6.27
+2019-11,Socks and Tights,48589,4.06
+2019-11,Outdoor,47666,3.98
+2019-11,Trousers Denim,42678,3.56
+2019-11,Skirts,27090,2.26
+2019-11,Shoes,21322,1.78
+2019-11,Dressed,18932,1.58
+2019-11,Unknown,14116,1.18
+2019-11,Swimwear,11188,0.93
+2019-11,Shirts,8787,0.73
+2019-11,Special Offers,5080,0.42
+2019-11,Shorts,4235,0.35
+2019-11,Woven/Jersey/Knitted mix Baby,1572,0.13
+2019-11,Dresses/Skirts girls,1144,0.10
+2019-12,Jersey Fancy,153207,13.70
+2019-12,Knitwear,150322,13.44
+2019-12,"Under-, Nightwear",134382,12.02
+2019-12,Trousers,104597,9.35
+2019-12,Accessories,90249,8.07
+2019-12,Jersey Basic,84702,7.57
+2019-12,Dresses Ladies,71469,6.39
+2019-12,Blouses,69880,6.25
+2019-12,Socks and Tights,53818,4.81
+2019-12,Outdoor,36838,3.29
+2019-12,Trousers Denim,36196,3.24
+2019-12,Skirts,27315,2.44
+2019-12,Shoes,23852,2.13
+2019-12,Dressed,20354,1.82
+2019-12,Swimwear,16965,1.52
+2019-12,Special Offers,13337,1.19
+2019-12,Shirts,12689,1.13
+2019-12,Unknown,11401,1.02
+2019-12,Shorts,3683,0.33
+2019-12,Dresses/Skirts girls,1632,0.15
+2019-12,Woven/Jersey/Knitted mix Baby,1427,0.13
+2020-01,Jersey Fancy,180827,16.80
+2020-01,"Under-, Nightwear",127348,11.83
+2020-01,Knitwear,110174,10.24
+2020-01,Trousers,101508,9.43
+2020-01,Jersey Basic,101393,9.42
+2020-01,Blouses,76835,7.14
+2020-01,Accessories,64363,5.98
+2020-01,Dresses Ladies,59008,5.48
+2020-01,Swimwear,57705,5.36
+2020-01,Trousers Denim,42482,3.95
+2020-01,Socks and Tights,32350,3.01
+2020-01,Outdoor,30489,2.83
+2020-01,Skirts,20434,1.90
+2020-01,Shoes,20049,1.86
+2020-01,Dressed,19178,1.78
+2020-01,Unknown,10986,1.02
+2020-01,Special Offers,8042,0.75
+2020-01,Shorts,5767,0.54
+2020-01,Shirts,5087,0.47
+2020-01,Woven/Jersey/Knitted mix Baby,1335,0.12
+2020-01,Dresses/Skirts girls,994,0.09
+2020-02,Jersey Fancy,160287,16.00
+2020-02,"Under-, Nightwear",112709,11.25
+2020-02,Jersey Basic,102117,10.19
+2020-02,Trousers,98975,9.88
+2020-02,Blouses,82713,8.26
+2020-02,Swimwear,71997,7.19
+2020-02,Knitwear,69610,6.95
+2020-02,Accessories,60411,6.03
+2020-02,Dresses Ladies,57984,5.79
+2020-02,Trousers Denim,39154,3.91
+2020-02,Socks and Tights,32606,3.25
+2020-02,Outdoor,26850,2.68
+2020-02,Dressed,20341,2.03
+2020-02,Skirts,19970,1.99
+2020-02,Shoes,16915,1.69
+2020-02,Unknown,10912,1.09
+2020-02,Shorts,6393,0.64
+2020-02,Shirts,5253,0.52
+2020-02,Special Offers,4209,0.42
+2020-02,Woven/Jersey/Knitted mix Baby,1530,0.15
+2020-02,Dresses/Skirts girls,923,0.09
+2020-03,Jersey Fancy,187916,17.94
+2020-03,"Under-, Nightwear",125393,11.97
+2020-03,Jersey Basic,120333,11.48
+2020-03,Trousers,110627,10.56
+2020-03,Blouses,86580,8.26
+2020-03,Swimwear,72378,6.91
+2020-03,Dresses Ladies,66045,6.30
+2020-03,Knitwear,50203,4.79
+2020-03,Accessories,48514,4.63
+2020-03,Trousers Denim,42970,4.10
+2020-03,Outdoor,25026,2.39
+2020-03,Socks and Tights,22594,2.16
+2020-03,Skirts,19803,1.89
+2020-03,Shoes,19733,1.88
+2020-03,Dressed,17134,1.64
+2020-03,Unknown,11977,1.14
+2020-03,Shorts,9871,0.94
+2020-03,Shirts,4249,0.41
+2020-03,Special Offers,3998,0.38
+2020-03,Woven/Jersey/Knitted mix Baby,1546,0.15
+2020-03,Dresses/Skirts girls,862,0.08
+2020-04,Jersey Fancy,219817,16.39
+2020-04,Jersey Basic,177243,13.22
+2020-04,Swimwear,154694,11.54
+2020-04,"Under-, Nightwear",136247,10.16
+2020-04,Trousers,129992,9.69
+2020-04,Blouses,110495,8.24
+2020-04,Dresses Ladies,97108,7.24
+2020-04,Trousers Denim,59206,4.42
+2020-04,Shorts,49190,3.67
+2020-04,Accessories,43282,3.23
+2020-04,Shoes,35883,2.68
+2020-04,Knitwear,30280,2.26
+2020-04,Skirts,29028,2.16
+2020-04,Outdoor,18269,1.36
+2020-04,Socks and Tights,13928,1.04
+2020-04,Dressed,13465,1.00
+2020-04,Unknown,9841,0.73
+2020-04,Special Offers,4925,0.37
+2020-04,Shirts,4483,0.33
+2020-04,Woven/Jersey/Knitted mix Baby,2319,0.17
+2020-04,Dresses/Skirts girls,1187,0.09
+2020-05,Jersey Fancy,216341,15.89
+2020-05,Swimwear,211678,15.54
+2020-05,Jersey Basic,159218,11.69
+2020-05,"Under-, Nightwear",126664,9.30
+2020-05,Trousers,116965,8.59
+2020-05,Dresses Ladies,109686,8.05
+2020-05,Blouses,101877,7.48
+2020-05,Accessories,55937,4.11
+2020-05,Trousers Denim,53541,3.93
+2020-05,Shorts,51046,3.75
+2020-05,Shoes,28968,2.13
+2020-05,Skirts,28529,2.09
+2020-05,Knitwear,27637,2.03
+2020-05,Socks and Tights,19801,1.45
+2020-05,Outdoor,14678,1.08
+2020-05,Dressed,11381,0.84
+2020-05,Special Offers,10103,0.74
+2020-05,Unknown,8543,0.63
+2020-05,Shirts,6242,0.46
+2020-05,Woven/Jersey/Knitted mix Baby,1705,0.13
+2020-05,Dresses/Skirts girls,1275,0.09
+2020-06,Jersey Fancy,297760,16.87
+2020-06,Swimwear,248986,14.11
+2020-06,Jersey Basic,188753,10.70
+2020-06,"Under-, Nightwear",156209,8.85
+2020-06,Dresses Ladies,152369,8.64
+2020-06,Blouses,150291,8.52
+2020-06,Trousers,145817,8.26
+2020-06,Shorts,84503,4.79
+2020-06,Accessories,70076,3.97
+2020-06,Trousers Denim,55719,3.16
+2020-06,Shoes,46170,2.62
+2020-06,Skirts,43315,2.45
+2020-06,Knitwear,32403,1.84
+2020-06,Socks and Tights,24909,1.41
+2020-06,Dressed,15737,0.89
+2020-06,Outdoor,13306,0.75
+2020-06,Unknown,12405,0.70
+2020-06,Shirts,12085,0.68
+2020-06,Special Offers,10539,0.60
+2020-06,Woven/Jersey/Knitted mix Baby,1847,0.10
+2020-06,Dresses/Skirts girls,1308,0.07
+2020-07,Jersey Fancy,248094,18.36
+2020-07,Jersey Basic,157055,11.62
+2020-07,Swimwear,141236,10.45
+2020-07,"Under-, Nightwear",133188,9.85
+2020-07,Blouses,117296,8.68
+2020-07,Trousers,110419,8.17
+2020-07,Dresses Ladies,104477,7.73
+2020-07,Accessories,75526,5.59
+2020-07,Shorts,45189,3.34
+2020-07,Trousers Denim,44812,3.32
+2020-07,Shoes,32482,2.40
+2020-07,Skirts,28277,2.09
+2020-07,Socks and Tights,27346,2.02
+2020-07,Knitwear,26923,1.99
+2020-07,Dressed,18236,1.35
+2020-07,Outdoor,12285,0.91
+2020-07,Shirts,9934,0.74
+2020-07,Unknown,9541,0.71
+2020-07,Special Offers,5794,0.43
+2020-07,Woven/Jersey/Knitted mix Baby,2038,0.15
+2020-07,Dresses/Skirts girls,1354,0.10
+2020-08,Jersey Fancy,209552,16.94
+2020-08,Jersey Basic,143693,11.61
+2020-08,"Under-, Nightwear",122118,9.87
+2020-08,Swimwear,112699,9.11
+2020-08,Trousers,105502,8.53
+2020-08,Blouses,99717,8.06
+2020-08,Dresses Ladies,98443,7.96
+2020-08,Accessories,68070,5.50
+2020-08,Knitwear,65006,5.25
+2020-08,Trousers Denim,45038,3.64
+2020-08,Shorts,33923,2.74
+2020-08,Skirts,28038,2.27
+2020-08,Shoes,22678,1.83
+2020-08,Socks and Tights,22442,1.81
+2020-08,Dressed,18633,1.51
+2020-08,Outdoor,18480,1.49
+2020-08,Unknown,9629,0.78
+2020-08,Shirts,7207,0.58
+2020-08,Special Offers,3665,0.30
+2020-08,Woven/Jersey/Knitted mix Baby,1757,0.14
+2020-08,Dresses/Skirts girls,902,0.07
+2020-09,Jersey Fancy,122114,15.30
+2020-09,Knitwear,102175,12.80
+2020-09,Jersey Basic,97397,12.20
+2020-09,Trousers,86284,10.81
+2020-09,"Under-, Nightwear",82574,10.34
+2020-09,Blouses,64625,8.10
+2020-09,Accessories,40656,5.09
+2020-09,Trousers Denim,39012,4.89
+2020-09,Dresses Ladies,33453,4.19
+2020-09,Outdoor,26101,3.27
+2020-09,Socks and Tights,22987,2.88
+2020-09,Dressed,19801,2.48
+2020-09,Shoes,13516,1.69
+2020-09,Skirts,13394,1.68
+2020-09,Swimwear,12631,1.58
+2020-09,Unknown,7087,0.89
+2020-09,Special Offers,4771,0.60
+2020-09,Shirts,4744,0.59
+2020-09,Shorts,3064,0.38
+2020-09,Woven/Jersey/Knitted mix Baby,1380,0.17
+2020-09,Dresses/Skirts girls,503,0.06

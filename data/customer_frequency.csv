@@ -1,0 +1,5 @@
+frequency_group,customers,pct_of_customers,avg_purchase_lines
+1 day,447973,32.88,3.46
+2-3 days,296985,21.80,8.41
+4-6 days,202520,14.87,17.15
+7+ days,414803,30.45,58.50
